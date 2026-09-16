@@ -2,6 +2,9 @@
 
 <img width="1191" height="838" alt="Screenshot 2026-09-16 at 22 00 04" src="https://github.com/user-attachments/assets/d52b4ada-3753-4476-99b6-8662eaf7e82e" />
 
+Download for Mac (Apple Silicon)
+https://drive.google.com/file/d/1tQa3GRouSrnEkj8FeQrgjVW4oYyPNpMw/view?usp=drive_link
+
 
 [English](#english) | [Magyar](#magyar)
 

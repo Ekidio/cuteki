@@ -1,5 +1,8 @@
 # CUTEKI — Region Video Cutter & Anamorphic Preview Tool
 
+<img width="1191" height="838" alt="Screenshot 2026-09-16 at 22 00 04" src="https://github.com/user-attachments/assets/d52b4ada-3753-4476-99b6-8662eaf7e82e" />
+
+
 [English](#english) | [Magyar](#magyar)
 
 ---
